@@ -173,8 +173,6 @@
 <p align="center">
   <b>🚀 Transforming ideas into scalable code — One function at a time.</b>
 </p>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ramaurya&icon=0&color=0" />
-  </a>
-</div>
+<p align="center">
+  <b>🚀 Creating Intelligent Systems — One Model at a Time.</b>
+</p>
